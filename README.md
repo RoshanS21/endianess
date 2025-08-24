@@ -1,3 +1,3 @@
 # endianess
-gcc findEndianess.c -o findEndianess
-./findEndianess
+# Compile: gcc findEndianess.c -o findEndianess
+# Run: ./findEndianess
